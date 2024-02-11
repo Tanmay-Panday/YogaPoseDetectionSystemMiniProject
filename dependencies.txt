@@ -1,0 +1,13 @@
+python==3.8.10
+pip==21.1.1
+pandas==2.0.3
+scikit-learn==1.3.2
+matplotlib==1.3.2
+mediapipe==3.7.3
+numpy==1.24.3
+opencv-python==4.8.1.78
+TIME-python
+reportlab==4.0.9
+Pillow==10.1.0
+zscore==0.1
+streamlit==1.30.0
